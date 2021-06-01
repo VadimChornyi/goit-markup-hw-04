@@ -215,7 +215,7 @@ body {
 .menu .menu-link.current {
   color: var(--accent-color);
 }
-/* .current {
+.current {
   position: relative;
 }
 .current::after {
@@ -228,7 +228,7 @@ body {
   width: 100%;
   top: 44px;
   border-radius: 2px;
-  background-color: var(--accent-color); */
+  background-color: var(--accent-color);
 }
 /*==========END HEADER========== */
 
@@ -551,7 +551,7 @@ body {
   padding: 20px 24px;
   border: 1px solid #eeeeee;
 }
-/* .projects-list-img-wrapper {
+.projects-list-img-wrapper {
   position: relative;
   overflow: hidden;
 }
@@ -575,4 +575,4 @@ body {
 .projects-list-link-wrapper:hover .overlay,
 .projects-list-link-wrapper:focus .overlay {
   transform: translateY(0%);
-} */
+}
